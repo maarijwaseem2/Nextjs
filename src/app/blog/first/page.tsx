@@ -1,3 +1,6 @@
 export default function First(){
-    return <h1>My First Blog</h1>
+    return <h1>My First Blog
+        <h2>Hello</h2>
+    </h1>
+
 }
